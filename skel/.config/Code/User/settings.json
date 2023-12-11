@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "git.autofetch": true,
+    "explorer.confirmDelete": false
+}
